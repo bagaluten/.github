@@ -1,0 +1,11 @@
+{
+    "name": "Rust Build",
+    "description": "Default workflow for rust projects",
+    "iconName": "octicon check-circle-fill",
+    "categories": [
+        "Rust"
+    ],
+    "filePatterns": [
+        "Cargo.toml"
+    ]
+}
