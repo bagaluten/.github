@@ -4,8 +4,5 @@
     "iconName": "octicon check-circle-fill",
     "categories": [
         "Rust"
-    ],
-    "filePatterns": [
-        "Cargo.toml"
     ]
 }
